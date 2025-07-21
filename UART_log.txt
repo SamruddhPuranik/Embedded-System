@@ -1,0 +1,11 @@
+System Initialized
+Left Indicator ON
+Left Indicator OFF
+Right Indicator ON
+Right Indicator OFF
+Left Indicator ON
+Right Indicator ON
+Left Indicator ON
+Left Indicator OFF
+Hazard ON
+Hazard OFF
